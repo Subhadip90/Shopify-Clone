@@ -1,12 +1,12 @@
 # Hi Everyone!! Welcome to my world of projects 👋
 
-## Project Name: Paytm Clone by Tailwind CSS
+## Project Name: Shopify Clone by Tailwind CSS
 
 ---
 
 ### Project Descripttion
 
-> **This is a large project where I have made paytm clone by using Tailwind CSS and this project is mobile responsive also, Hope you like my project**
+> **This is a large project where I have made Shopify clone by using Tailwind CSS and this project is mobile responsive also, Hope you like my project**
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## Time taken to Finish this project
 
-> I have taken 1 full day to understand and complete this project, this was my first project on Tailwind.
+> I have taken 1 full day to understand and complete this project, this is my 3rd project on Tailwind and many more to go.
 
 ## Feedback
 
